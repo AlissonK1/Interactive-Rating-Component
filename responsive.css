@@ -13,10 +13,3 @@
     height: 58%;
 }    
 }
-
-@media screen and (min-width: 1300px){
-
-#main {
-    height: 35%;
-}   
-}
