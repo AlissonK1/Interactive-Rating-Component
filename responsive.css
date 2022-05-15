@@ -1,0 +1,22 @@
+@media screen and (max-width: 880px){
+
+#main {
+    width: 50%;
+    height: 55%;
+}
+}
+
+@media screen and (max-width: 500px){
+
+#main {
+    width: 70%;
+    height: 58%;
+}    
+}
+
+@media screen and (min-width: 1300px){
+
+#main {
+    height: 35%;
+}   
+}
